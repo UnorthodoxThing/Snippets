@@ -1,0 +1,37 @@
+
+Since you're not sure what height and width to choose from,
+select from the most popular devices:
+
+"Most Common Used in 2019"
+-360x640
+-1366x768
+-1920x1080
+-375x667
+-360x720
+-768x1024
+
+NB: Do the same for next year, use "Most Common Used in ####"
+
+where, #### is last year's present date.
+e.g. Today is 2020, i.e. use 2019
+e.g. Today is 2018, i.e. use 2017
+
+Therefore, you'll always keep up with the trend, designing for
+most of the audience.
+
+Determining your Breakpoints
+
+There's two popular approach:
+1. Device-dependent breakpoints, and
+2. Design-denpendent.
+
+Let the deisgn decide the breakpoints, not the device.
+Each design is different.
+
+Anyone who tells you to always use a particular set of breakpoints
+is doing your site a diservice.
+
+Containers
+
+Ofter, websites have a max-width value 960px, 1000px, or
+something similar.
